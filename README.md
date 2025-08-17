@@ -8,7 +8,9 @@
 
 > **A comprehensive interactive dashboard for analyzing unicorn startup valuations with machine learning predictions and industry insights**
 
-![Dashboard Preview](https://via.placeholder.com/800x400/276DC3/FFFFFF?text=Unicorn+Dashboard+Preview)
+[Unicorn Startup Analysis - Shiny App](https://noorahmadraza.shinyapps.io/Unicorn_Startup_Analysis/)
+
+![Dashboard Preview](https://raw.githubusercontent.com/Noor-Raza/unicorn-startup-analysis/main/preview.png)
 
 ## 🌟 Features
 
